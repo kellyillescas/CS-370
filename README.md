@@ -1,4 +1,6 @@
-# For the pirate maze assignment, I was given code that designed a maze for an intelligent agent to navigate. It was my job to add code that would aid in
+#Pirate Maze Assignment/Ethical Principles 
+
+For the pirate maze assignment, I was given code that designed a maze for an intelligent agent to navigate. It was my job to add code that would aid in
 training the intelligent agent to keep repeating the maze over and over, training it to be able to beat a human in both navigating correctly and quickly.
 In this code, I created a for loop to navigate through each epoch. I then created a while loop to keep the IA functioning until the end of the game.
 
